@@ -1,0 +1,11 @@
+{
+  "name": "file-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@fastify/cors": "^8.3.0",
+    "@fastify/static": "^6.10.2",
+    "fastify": "^4.21.0"
+  }
+}
